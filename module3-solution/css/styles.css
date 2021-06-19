@@ -4,6 +4,8 @@
     margin-left: 5%;
 }
 
-#collapsable-nav{
-    background-color: wheat;
+@media (max-width: 767px) {
+    #collapsable-nav{
+        background-color: wheat;
+    }
 }
