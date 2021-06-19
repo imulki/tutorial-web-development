@@ -1,0 +1,9 @@
+.text-box{
+    background-color: gainsboro;
+    width: 90%;
+    margin-left: 5%;
+}
+
+#collapsable-nav{
+    background-color: wheat;
+}
